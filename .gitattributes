@@ -5,3 +5,4 @@
 *.xml linguist-detectable=false
 *.ipynb linguist-detectable=true
 *.py linguist-detectable=true
+*.ipynb linguist-documentation
